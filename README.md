@@ -1,2 +1,2 @@
-# exercises-c-plusplus
-Various exercises for C++.
+# exercises-in-c-plusplus
+Various exercises in C++.
